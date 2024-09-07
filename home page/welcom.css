@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(dtu4.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+span{
+    color: orangered;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.btn{
+     float: right;
+     padding: 10px 15px;
+     margin-right: 600px;
+     border-radius: 5px;
+     margin-top: 30px;
+     background:transparent;
+     font-size: 20px;
+     font-weight: bold;
+    }
+
+    .btn:hover{
+        background-color: transparent;
+        color: orange;
+    }
+
+   
+  
